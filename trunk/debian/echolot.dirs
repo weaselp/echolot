@@ -1,0 +1,7 @@
+usr/bin
+usr/share/perl5
+var/lib/echolot
+var/run/echolot
+var/log/echolot
+etc/echolot
+etc/default
